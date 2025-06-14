@@ -24,8 +24,7 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'nekomeowww',
     title: 'NGC 原始创作者',
-    desc: '微信：l486946490022l',
-    desc: 'QQ：1677529849',
+    desc: '微信：l486946490022lQQ：1677529849',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/Fabulistl' },
       { type: 'twitter', icon: 'twitter', link: 'https://x.com/Bluewhaleseal' },
@@ -39,10 +38,6 @@ export const creators: Creator[] = [
     username: 'LittleSound',
     title: 'NGC 原始创作者',
     desc: '微信：l48694649l',
-    links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
-    ],
     nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
     emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
   },
