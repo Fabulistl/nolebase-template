@@ -19,19 +19,7 @@ export interface Creator {
 const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
-  {
-    name: 'ᥴꪮꪮꪶ ·  ه٥',
-    avatar: '',
-    username: 'nekomeowww',
-    title: 'NGC 原始创作者',
-    desc: '微信：l486946490022lQQ：1677529849',
-    links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/Fabulistl' },
-      { type: 'twitter', icon: 'twitter', link: 'https://x.com/Bluewhaleseal' },
-    ],
-    nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
-    emailAliases: ['neko@ayaka.moe'],
-  },
+  
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)
   return c as Creator
