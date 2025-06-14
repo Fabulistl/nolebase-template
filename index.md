@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/index
+      link: /暂未开发
     - theme: alt
       text: 进入龙龙的博客
       link: http://www.ngclabs.cn:5656
