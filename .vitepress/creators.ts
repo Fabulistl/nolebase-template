@@ -24,10 +24,11 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'nekomeowww',
     title: 'NGC 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    desc: '微信：l486946490022l',
+    desc: 'QQ：1677529849',
     links: [
-      { type: '微信', icon: '微信', link: 'https://github.com/nekomeowww' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
+      { type: 'github', icon: 'github', link: 'https://github.com/Fabulistl' },
+      { type: 'twitter', icon: 'twitter', link: 'https://x.com/Bluewhaleseal' },
     ],
     nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
     emailAliases: ['neko@ayaka.moe'],
@@ -37,7 +38,7 @@ export const creators: Creator[] = [
     avatar: '',
     username: 'LittleSound',
     title: 'NGC 原始创作者',
-    desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
+    desc: '微信：l48694649l',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
