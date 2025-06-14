@@ -6,7 +6,7 @@ title: NGC
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
-  name: 尉昊龙
+  name: NGC
   text: 龙龙的个人博客
   tagline: 以 NGC 为名，读作 NebulaGridComputing，
   image:
@@ -21,20 +21,20 @@ hero:
       link: http://www.ngclabs.cn:5656
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/Fabulistl/nolebase-template
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
+  - title: 影视资源
+    details: 我们为您提供最新最热门的影视资源，包括韩剧、国产动漫、剧、电影等高清无广告内容。（有偿,根据资源情况需要收费）
     icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
+  - title: 设计与科技赛事
+    details: 设计与科技赛事涵盖多个领域，包括平面设计、视频制作、AI技术及建模竞赛，为全球创作者提供展示才华的舞台。这些赛事不仅激发创意，还促进创新与行业交流，吸引广泛参与者。
     icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
+  - title: 个人设计
+    details: LOGO设计、设计物料、海报设计、AIGC、视频后期
     icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
+  - title: 软件工具整合
+    details: 关于软件、工具、网站的整合，类似书签地球
     icon: 🗃
 ---
 
