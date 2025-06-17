@@ -14,13 +14,13 @@ hero:
     alt: Vitest
   actions:
     - theme: brand
-      text: https://github.com/Fabulistl
-      link: /暂未开发
+      text: 开始阅读
+      link: https://github.com/Fabulistl
     - theme: alt
       text: 进入龙龙的博客
       link: http://www.ngclabs.cn:5656
     - theme: alt
-      text: GitHub 上浏览
+      text: GitHub 上浏览此项目
       link: https://github.com/Fabulistl/nolebase-template
 
 features:
