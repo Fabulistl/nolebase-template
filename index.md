@@ -14,7 +14,7 @@ hero:
     alt: Vitest
   actions:
     - theme: brand
-      text: 开始阅读
+      text: https://github.com/Fabulistl
       link: /暂未开发
     - theme: alt
       text: 进入龙龙的博客
